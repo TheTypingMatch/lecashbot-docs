@@ -1,4 +1,4 @@
-# Vote
+# Contributors
 ---
 ### Description
 This command is used to show information about voting for Emojifier on various bot lists.
