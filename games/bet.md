@@ -1,7 +1,7 @@
 # Bet
 ---
 ### Description
-This command is used to convert text into badly drawn letter emojis
+Play roulette for a chance to win cash.
 ### Usage
 ```
 $bet
