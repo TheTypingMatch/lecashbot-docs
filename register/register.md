@@ -1,4 +1,4 @@
-# Convertdancing
+# Register
 ---
 ### Description
 Make a profile using your NitroType account.
