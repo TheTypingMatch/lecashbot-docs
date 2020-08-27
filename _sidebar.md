@@ -39,3 +39,7 @@
 - Miscellaneous
 - [Report](miscellaneous/report.md)
 - [Suggest](miscellaneous/suggest.md)
+
+---
+- Other 
+- [Legal](other/legal.md)
