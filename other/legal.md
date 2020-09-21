@@ -14,4 +14,4 @@ LeCashBot stores the following:
 - Please join our [Support Server](https://discord.gg/35Gfhwe) and contact an Admin or run the `$delete` command.
 
 ### I'm confused about why you need this data, can you explain this to me in detail?
-- Feel free to join the Support Server and DM an Admin so we can clarify any questions you have.
+- Feel free to join the [Support Server](https://discord.gg/35Gfhwe) and DM an Admin so we can clarify any questions you have.
