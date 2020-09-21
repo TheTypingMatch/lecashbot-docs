@@ -1,7 +1,8 @@
 # Give
 ---
 ### Description
-Gift someone cash from your balance.### Usage
+Gift someone cash from your balance.
+### Usage
 ```
 $give
 ```
