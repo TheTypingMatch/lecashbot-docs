@@ -4,7 +4,7 @@
 This command is used to check the stats of the bot such as the bot's response time, and guild count.
 ### Usage
 ```
-$invite
+$give
 ```
 
 ### Permission Required
