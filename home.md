@@ -8,4 +8,4 @@ A Discord.js bot based on the NitroType currency.
 
 ?> All **Usage** sections on these docs will assume that the command prefix is the default one (`$`) which allows you to use the bot in a server. 
 
-?> In this documentation, arguments in \<angle brackets\> are required, while arguments in [brackets] are optional. You also should not type out the brackets and parenthesis when using the commands.
+?> In this documentation, arguments in \<angle brackets\> are required, while arguments in [brackets] are optional. You also should not type out the brackets and parentheses when using the commands.
