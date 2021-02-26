@@ -2,7 +2,7 @@
 
 ### What does it store?
 LeCashBot stores the following:
-- User IDs for users data.
+- User IDs for users' data.
 
 ### Who can access the data?
 - Bot Administrators
