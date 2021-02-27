@@ -1,7 +1,7 @@
 # Ping
 ---
 ### Description
-This command is used to show the response time of the bot.
+Show the response time of the bot.
 ### Usage
 ```
 $ping

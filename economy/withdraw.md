@@ -7,4 +7,4 @@ Withdraw at least $100K from your LeCashBot account to your NitroType account.
 $withdraw
 ```
 ### Permission Required
-Anyone can use this command, unless they are blacklisted globally
+Anyone can use this command, unless they are blacklisted globally.
