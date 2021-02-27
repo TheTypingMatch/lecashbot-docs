@@ -7,4 +7,4 @@ View the wealthiest of all LeCashBot users.
 $leaderboard
 ```
 ### Permission Required
-Anyone can use this command, unless they are blacklisted globally
+Anyone can use this command, unless they are blacklisted globally.
