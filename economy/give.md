@@ -7,4 +7,4 @@ Gift someone cash from your balance.
 $give
 ```
 ### Permission Required
-Anyone can use this command, unless they are blacklisted globally
+Anyone can use this command, unless they are blacklisted globally.
