@@ -1,7 +1,7 @@
 # Suggest
 ---
 ### Description
-This command is used to send a suggestion to the developers
+This command is used to send a suggestion to the developers.
 ### Usage
 ```
 $suggest
