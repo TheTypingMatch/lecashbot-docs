@@ -1,6 +1,5 @@
 - [LeCashBot Docs](/)
 - [Getting started](getting-started.md)
-- [Bot and Website status](status.md)
 
 ---
 - Getting started
