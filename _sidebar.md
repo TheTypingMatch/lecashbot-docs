@@ -3,7 +3,7 @@
 - [Bot and Website status](status.md)
 
 ---
-- Register
+- Getting started
 - [Register](register/register.md)
 - [Delete](register/delete.md)
 
