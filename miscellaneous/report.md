@@ -1,7 +1,7 @@
 # Report
 ---
 ### Description
-This command is used to report a bug to the developers
+This command is used to report a bug to the developers.
 ### Usage
 ```
 $report
