@@ -1,7 +1,7 @@
 # Coinflip
 ---
 ### Description
-This command is used to convert text into the default discord text emojis.
+This command is used to flip a coin - heads or tails.
 ### Usage
 ```
 $coinflip
